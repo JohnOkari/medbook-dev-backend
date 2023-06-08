@@ -1,0 +1,2 @@
+class TblGender < ApplicationRecord
+end

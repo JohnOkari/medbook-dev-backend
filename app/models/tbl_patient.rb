@@ -1,0 +1,2 @@
+class TblPatient < ApplicationRecord
+end

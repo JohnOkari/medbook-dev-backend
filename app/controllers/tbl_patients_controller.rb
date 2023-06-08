@@ -1,0 +1,2 @@
+class TblPatientsController < ApplicationController
+end
